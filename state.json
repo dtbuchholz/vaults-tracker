@@ -511,6 +511,11 @@
                     "block_num": 1342618
                 }
             ]
+        },
+        "1345685": {
+            "start_block": 1342809,
+            "end_block": 1345685,
+            "events_data": []
         }
     }
 }
